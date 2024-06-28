@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+:root
+{
+  --color-primary-cyan: hsl(179, 62%, 43%);
+  --color-primary-cyan-light: hsl(179, 47%, 52%);
+  --color-primary-yellow: hsl(71, 73%, 54%);
+  --color-neutral-light: hsl(204, 43%, 93%);
+  --color-neutral-gray: hsl(218, 22%, 67%);
+  --color-neutral-white: hsl(255, 255%, 255%);
+  --font-family: "Karla", sans-serif;
+  --font-optical-sizing: auto;
+  --font-weight-light: 400;
+  --font-weight-bold: 700;
+  --font-style: normal;
+}
+
+body
+{
+  background-color: var(--color-neutral-light);
+}
+
+main
+{
+  width: 314px;
+  margin: 0px auto;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+a, h1, h2, p, span, .lead
+{
+  font-family: var(--font-family);
+}
+
+footer
+{
+  position: inherit;
+  bottom: 0px;
+}
+
+.our-community
+{
+  background-color: var(--color-neutral-white);
+  padding: 1.5rem;
+}
+
+.our-community h1
+{
+  color: var(--color-primary-cyan);
+  margin-bottom: 1.3rem;
+}
+
+.our-community .lead
+{
+  color: var(--color-primary-yellow);
+  font-weight: var(--font-weight-bold);
+  font-size: 0.88rem;
+  line-height: 1.3;
+  margin-bottom: 1.3rem;
+}
+
+.our-community p
+{
+  font-size: 13px;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+  color: var(--color-neutral-gray);
+}
+
+.subscription
+{
+  background-color: var(--color-primary-cyan);
+  padding: 1.5rem;
+  color: var(--color-neutral-white);
+}
+
+.subscription h2
+{
+  font-size: 18px;
+  margin-bottom: 0.5rem;
+}
+
+.price
+{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.price span:first-child
+{
+  font-size: 1.8rem;
+  font-weight: var(--font-weight-bold);
+  margin-right: 0.7rem;
+  color: var(--color-neutral-white);
+}
+
+.price span
+{
+  font-size: 0.9rem;
+  font-weight: var(--font-weight-light);
+  margin-right: 0.7rem;
+  color: var(--color-neutral-light);
+}
+
+.subscription p
+{
+  padding-bottom: 1.5rem;
+}
+
+.button
+{
+  background-color: var(--color-primary-yellow);
+  display: block;
+  border-radius: 6px;
+  padding: 0.6rem;
+  font-size: 0.9rem;
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+  text-align: center;
+  color: var(--color-neutral-white);
+  box-shadow: 1px 10px 30px hsl(179, 64%, 34%);
+}
+
+.why-us
+{
+  background-color: var(--color-primary-cyan-light);
+  padding: 1.5rem;
+}
+
+.why-us h2
+{
+  font-size: 18px;
+  color: var(--color-neutral-white);
+  margin-bottom: 0.5rem;
+}
+
+.why-us p {
+    font-size: 13px;
+    color: var(--color-neutral-light);
+}
