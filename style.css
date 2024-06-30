@@ -136,7 +136,48 @@ footer
   margin-bottom: 0.5rem;
 }
 
-.why-us p {
-    font-size: 13px;
-    color: var(--color-neutral-light);
+.why-us p
+{
+  font-size: 13px;
+  color: var(--color-neutral-light);
+}
+
+@media screen and (min-width:1440px)
+{
+  main
+  {
+    width: calc(314px * 2);
+    height: auto;
+  }
+
+  section
+  {
+    display: grid;
+    grid-template-areas:
+      'a a'
+      'b c';
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr;
+  }
+
+  .our-community
+  {
+    grid-area: a;
+    padding: 2rem;
+  }
+  
+  .subscription
+  {
+    width: 100%;
+    grid-area: b;
+    width: 314px;
+    padding: 2rem;
+  }
+  
+  .why-us
+  {
+    width: 314px;
+    grid-area: c;
+    padding: 2rem;
+  }
 }
