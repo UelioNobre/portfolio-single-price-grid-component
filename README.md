@@ -14,6 +14,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -89,3 +90,13 @@ With each new project comes a new learning experience. That's why I intend to co
 - Website - [Uélio NObre](https://github.com/UelioNobre/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/UelioNobre)
 - Twitter - [@uelionobre](https://www.twitter.com/UelioNobre)
+
+## Acknowledgments
+
+__PORTUGUESE__
+
+Caso tenha alguma coisa a contribuir, por favor, sinta-se a vontade para mandar um pull request no repositório do desafio, irei apreciar muito.
+
+__ENGLISH__ 
+
+If you have anything to contribute, please feel free to send a pull request to the challenge repository, I will greatly appreciate it.
