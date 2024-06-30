@@ -28,7 +28,7 @@ main
   overflow: auto;
 }
 
-a, h1, h2, p, span, .lead
+a, h2, p, span, .lead
 {
   font-family: var(--font-family);
 }
@@ -45,7 +45,7 @@ footer
   padding: 1.5rem;
 }
 
-.our-community h1
+.our-community h2
 {
   color: var(--color-primary-cyan);
   margin-bottom: 1.3rem;
