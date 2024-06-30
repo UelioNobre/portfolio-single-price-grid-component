@@ -148,10 +148,6 @@ footer
   {
     width: calc(314px * 2);
     height: auto;
-  }
-
-  section
-  {
     display: grid;
     grid-template-areas:
       'a a'
