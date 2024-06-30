@@ -29,22 +29,27 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Desktop](./screenshot-desktop.png)
+![Desktop](./screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/UelioNobre/portfolio-single-price-grid-component)
+- Live Site URL: [Add live site URL here](https://uelionobre.github.io/portfolio-single-price-grid-component/)
 
 ## My process
+
+__PORTUGUESE__
+
+Primeiro, observo como a estrutura é composta e tento pensar mesclando entre os dois gerenciadores de layout grid e flexbox e faço um rascunho no papel, simples.
+
+Depois dessa análise, começo a marcação HTML e logo após a estilização CSS.
+
+__ENGLISH__
+
+First, I look at how the structure is composed and try to think about mixing the two layout managers, grid and flexbox, and I make a simple draft on paper.
+
+After this analysis, I start the HTML markup and then the CSS styling.
 
 ### Built with
 
@@ -53,59 +58,45 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+__PORTUGUESE__
 
-To see how you can add code snippets, see below:
+A estrutura é a peça principal do layout. Por isso, gastar um tempo analisando onde aplicar Grades e Flex é um bom começo.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+__ENGLISH__
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+The structure is the main part of the layout, so spending some time analyzing where to apply Grids and Flex is a good place to start.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+__PORTUGUESE__
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+A cada novo projeto um novo aprendizado. Por isso pretento continuar a me aventurar na área do design. Atualmente estou tentando mesclar entre grade e flexbox. Estou percebendo a melhoria de entendimento das duas funções.
+
+__ENGLISH__
+
+With each new project comes a new learning experience. That's why I intend to continue my adventures in the design field. I'm currently trying to merge grid and flexbox. I'm noticing an improvement in understanding both functions.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [w3schools](https://www.w3schools.com/css/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Uélio NObre](https://github.com/UelioNobre/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/UelioNobre)
+- Twitter - [@uelionobre](https://www.twitter.com/UelioNobre)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+__PORTUGUESE__
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Caso tenha alguma coisa a contribuir, por favor, sinta-se a vontade para mandar um pull request no repositório do desafio, irei apreciar muito.
+
+__ENGLISH__ 
+
+If you have anything to contribute, please feel free to send a pull request to the challenge repository, I will greatly appreciate it.
