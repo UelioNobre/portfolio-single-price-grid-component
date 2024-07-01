@@ -8,6 +8,7 @@
   --color-neutral-light: hsl(204, 43%, 93%);
   --color-neutral-gray: hsl(218, 22%, 67%);
   --color-neutral-white: hsl(255, 255%, 255%);
+  --color-neutral-black: hsla(0, 0%, 0%, 0.341);
   --font-family: "Karla", sans-serif;
   --font-optical-sizing: auto;
   --font-weight-light: 400;
@@ -26,6 +27,7 @@ main
   margin: 0px auto;
   border-radius: 6px;
   overflow: auto;
+  box-shadow: 3px 3px 20px var(--color-neutral-black);
 }
 
 a, h2, p, span, .lead
